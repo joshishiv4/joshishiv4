@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshishiv4&show_icons=true&locale=en" alt="joshishiv4" /></p>
 
-<p><img align="center" src="https://avatars.githubusercontent.com/u/115627496?v=4&" alt="joshishiv4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshishiv4&" alt="joshishiv4" /></p>
